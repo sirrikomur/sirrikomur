@@ -4,9 +4,9 @@
 <h1 align="center">Hi 👋, I'm Sırrı KÖMÜR</h1>
 <h3 align="center">I am a curious world creator. I am a backend human developer.</h3>
 
-- 🔭 I’m currently working on [JavaCamp2022](https://github.com/sirrikomur/JavaCamp2022)
+- 🔭 I’m currently working on **"Gençlere Yatırım, Geleceğe Yazılım"** by ***Turkcell***.
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning **Java** and **Spring Boot**
 
 - 📝 I regularly write articles on [https://sirricankomur.medium.com/](https://sirricankomur.medium.com/)
 
